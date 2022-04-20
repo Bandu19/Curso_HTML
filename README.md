@@ -1,11 +1,12 @@
 # Curso_HTML
+
 #
 
-***CONTENIDO DEL CURSO***
+**_CONTENIDO DEL CURSO_**
 
 **Dentro de las secciones mencionadas en las que se desarrolla:**
 
-- [ ] Sección 1: Introducción a la Universidad de HTML.
+- [x] Sección 1: Introducción a la Universidad de HTML.
 - [ ] Sección 2: Elementos Básicos de HTML.
 - [ ] Sección 3: Introducción a HTML con CSS.
 - [ ] Sección 4: Links en HTML y CSS.
@@ -15,6 +16,5 @@
 - [ ] Sección 8: Formularios en HTML.
 - [ ] Sección 9: Elementos Semánticos en HTML.
 - [ ] Sección 10: Clase Final.
-
 
 #
